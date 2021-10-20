@@ -2,7 +2,7 @@
 
 #Creation
 
-echo test_{0..20} | xargs touch
+echo test_{1..20} | xargs touch
 
 #Suppression nombres pair
 
